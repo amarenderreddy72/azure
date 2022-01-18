@@ -11,3 +11,7 @@ always welcome
 
 networkssecurity data transfer
 http protocol
+
+line by line communication
+error reduction
+
